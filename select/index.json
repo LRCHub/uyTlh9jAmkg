@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "WINGS OF FIRE",
+  "base_artist": "MAKO & SAYUKI",
+  "createdAt": "2026-03-20T14:40:32.344511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "Running Wild",
+      "has_synced": false,
+      "path": "select/01_Wings_of_Fire_Running_Wild.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "石元丈晴",
+      "has_synced": false,
+      "path": "select/02_Wings_of_Fire_石元丈晴.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WINGS OF FIRE",
+      "artist": "MAKO feat. SAYUKI",
+      "has_synced": true,
+      "path": "select/03_WINGS_OF_FIRE_MAKO_feat._SAYUKI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "Mako & Sayuki",
+      "has_synced": true,
+      "path": "select/04_Wings_of_Fire_Mako_&_Sayuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "Riot",
+      "has_synced": false,
+      "path": "select/05_Wings_of_Fire_Riot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wings of Fire (TV-mix)",
+      "artist": "MAKO feat. SAYUKI",
+      "has_synced": false,
+      "path": "select/06_Wings_of_Fire_(TV-mix)_MAKO_feat._SAYUKI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wings of Fire (TV-Mix)",
+      "artist": "Mako & Sayuki",
+      "has_synced": false,
+      "path": "select/07_Wings_of_Fire_(TV-Mix)_Mako_&_Sayuki.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "Sato, Mako & Sayuki",
+      "has_synced": false,
+      "path": "select/08_Wings_of_Fire_Sato,_Mako_&_Sayuki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wings Of Fire (Extended Mix)",
+      "artist": "Mako Sato & Sayuki",
+      "has_synced": true,
+      "path": "select/09_Wings_Of_Fire_(Extended_Mix)_Mako_Sato_&_Sayuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wings Of Fire",
+      "artist": "Mako and Sayuki",
+      "has_synced": true,
+      "path": "select/10_Wings_Of_Fire_Mako_and_Sayuki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "Brymir",
+      "has_synced": true,
+      "path": "select/11_Wings_of_Fire_Brymir.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wings of Fire",
+      "artist": "Sato, Mako & Sayuki",
+      "has_synced": true,
+      "path": "select/12_Wings_of_Fire_Sato,_Mako_&_Sayuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wings of Fire (TV-mix)",
+      "artist": "Sato, Mako & Sayuki",
+      "has_synced": false,
+      "path": "select/13_Wings_of_Fire_(TV-mix)_Sato,_Mako_&_Sayuki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "WINGS OF FIRE",
+      "artist": "Jee Bee",
+      "has_synced": false,
+      "path": "select/14_WINGS_OF_FIRE_Jee_Bee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wings Of Fire",
+      "artist": "Mako & Sayuki",
+      "has_synced": false,
+      "path": "select/pl_01_Wings_Of_Fire_Mako_&_Sayuki.txt"
+    }
+  ]
+}
